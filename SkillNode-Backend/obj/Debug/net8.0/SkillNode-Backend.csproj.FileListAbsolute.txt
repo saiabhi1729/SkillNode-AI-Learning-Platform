@@ -26,9 +26,9 @@ C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SkillNode-Backend.props
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\scopedcss\bundle\SkillNode-Backend.styles.css
-C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\SkillNod.FFDD00F6.Up2Date
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\SkillNode-Backend.dll
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\refint\SkillNode-Backend.dll
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\SkillNode-Backend.pdb
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\SkillNode-Backend.genruntimeconfig.cache
 C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\ref\SkillNode-Backend.dll
+C:\Users\saiab\SkillNode-AI-Learning-Platform\SkillNode-Backend\obj\Debug\net8.0\SkillNode-Backend.csproj.CopyComplete
