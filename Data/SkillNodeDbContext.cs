@@ -8,6 +8,6 @@ namespace SkillNode_Backend.Data
         public SkillNodeDbContext(DbContextOptions<SkillNodeDbContext> options) : base(options) { }
 
         // Define your database tables (DbSets)
-        public DbSet<User> Users { get; set; }
+        public DbSet<User> Users { get; set; } 
     }
 }
